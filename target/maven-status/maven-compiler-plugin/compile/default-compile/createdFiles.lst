@@ -1,0 +1,6 @@
+org\example\ApiKeyResourceProviderFactory.class
+org\example\RegisterUserListenerProvider.class
+org\example\ApiKeyResource.class
+org\example\Main.class
+org\example\ApiKeyResourceProvider.class
+org\example\RegisterUserListenerProviderFactory.class
